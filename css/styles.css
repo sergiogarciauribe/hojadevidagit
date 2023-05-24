@@ -1,0 +1,139 @@
+:root{
+    --colorOscuro: #022222;
+    --negro: #000;
+    --blanco: #fff;
+    --colorSecundario: #DAD331;
+    --fuentePricipal: 'Roboto', sans-serif;
+}
+/*Globales*/
+html{
+    font-size: 62.5%;
+}
+body{
+    font-size:16px;
+    font-family: var(--fuentePricipal);
+}
+a{
+    text-decoration: none;
+}
+img{
+    margin: 0;
+}
+/*Header*/
+.header{
+    background-color: var(--colorOscuro);
+    padding: 2rem;
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-end;
+
+}
+.header__logo--imagen{
+    width: 12rem;
+}
+.header__navegacion{
+    display: flex;
+    column-gap: 5rem;
+}
+.header__navegacion--enlace{
+    color: var(--blanco);
+    font-size: 3rem;
+}
+.banner__imagen{
+    background-image: url(../img/banner.jpg);
+    background-size: cover;
+    height: 40rem;
+}
+.contenedor{
+    max-width: 120rem;
+    margin: 0 auto;
+}
+.presentacion{
+    display: flex;
+    justify-content: space-between ;
+    align-items: center;
+    column-gap: 2rem;
+    margin-top: 10rem;
+}
+.presentacion__imagen{
+    margin: 0 auto;
+}
+.presentacion__imagen--foto{
+    border-radius: 50%;
+    width: 25rem;
+    height: 25rem;
+    object-fit: cover;
+}
+.presentacion__titulo{
+    color: var(--colorSecundario);
+    font-size: 2.5em;
+    border-bottom: 0.15rem solid var(--colorOscuro);
+    line-height: 6rem;
+    margin-bottom: 0;
+
+}
+.presentacion__texto{
+    margin-top: 1rem;
+    text-align: justify;
+}
+.presentacion__boton{
+    background-color: var(--colorSecundario);
+    display: inline-block;
+    border-radius: 1rem;
+}
+.presentacion__boton--text{
+    color: var(--blanco);
+    margin: 1rem;
+    padding: 0 4rem ;
+    font-size: 2rem;
+    font-weight: bold;
+}
+.presentacion__titulo--cv{
+    width: 100%;
+}
+
+.footer{
+    margin-top: 20rem;
+    background-color: var(--colorOscuro);
+    height: 20rem;
+}
+/*cvsergio*/
+.imagen__personales{
+    margin: 0;
+}
+.presentacion__flex{
+    justify-content: flex-start;
+}
+.personales__datos--texto{
+    font-size: 2rem;
+    text-align: justify;
+}
+.personales__datos--titulo{
+    font-weight: bold;
+}
+/*tabla formación academica*/
+
+.tabla{
+    background-color: var(--colorOscuro);
+    text-align: center;
+    color: var(--blanco);
+    margin-top: 6rem;
+    margin-bottom: 6rem;
+    border-spacing: 0;
+    font-size: 1.5rem;
+}
+.tabla__formacion--mod{
+    border: var(--blanco) solid 0.1rem ;
+    padding:1rem 8rem;
+}
+.tabla__flex{
+    display: flex;
+    justify-content: center;
+}
+.experiencia{
+    margin-top: 5rem;
+    border-bottom: var(--colorSecundario) solid 0.2rem;
+}
+.no-border{
+    border: none;
+}
