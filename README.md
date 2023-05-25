@@ -5,7 +5,7 @@
 </P>
 
 
-# Mis experiecia laboral 🧔 💼 🧰 
+# Mi experiencia laboral 🧔 💼 🧰 
 
 ## Empresa: Digitex Internacional 🤙 📲
 #### Cargo: Operador Call Center
@@ -25,10 +25,10 @@
 #### Fecha de Egreso:30/03/2017
 </br>
 
-## Empresa:Hotel Carretero y Termales 🏨 🐦
+## Empresa:Hotel Carretero y Termales Del Ruiz 🏨 🐦
 #### Cargo:Técnico en Sistemas
 #### Jefe Inmediato:Wilson Hernan Orozco Morales
-#### Teléfono:3104322848-8930300 Ext313
+#### Teléfono:3104322848-8930300 Ext 313
 #### Funciones: Instalacion de redes datos y cableado estructurado,soporte en sitio, remoto, copias de seguridad mantenimiento preventivo, predictivo,lógico de equipo de computo, ayudas audiovisuales, administración de base de datos SQL server,responsable de sistemas ERP, hotelero, POS (zeus),cámaras de seguridad,directorio activo,servidor de dominio, consola de antivirus, administración de Volp, telefonía híbrida y seguridad informática.
-#### Fecha de Ingreso:31/05/2017
-#### Fecha de Egreso:Actualmente
+#### Fecha de Ingreso: 31/05/2017
+#### Fecha de Egreso: Actualmente
