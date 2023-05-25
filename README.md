@@ -45,7 +45,7 @@
 | Sena Virtual	| Complementaria virtual en redes y seguridad| Si|
 | Universidad de Caldas	| Tecnología en Sistemas Informáticos| No|
 | Sena Virtual	| Construcción de bases de datos con MySQL| Si|
-| Universidad de Caldas	| Tecnología en Sistemas Informáticos| Si|
-| Universidad de Caldas	| Tecnología en Sistemas Informáticos| Si|
+| Sena Virtual  | Manejo de adobe Photoshop	| Si|
+| Universidad de Manizales| Desarrollo de software para negocios Digitales| En Curso|
 
 
