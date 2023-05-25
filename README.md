@@ -33,14 +33,19 @@
 #### Fecha de Ingreso: 31/05/2017
 #### Fecha de Egreso: Actualmente
 
-## Formación Acádemica:
+## Formación Acádemica: 🏫 👨‍🎓 😛
 
 |Establecimiento Educativo | Título | Estudio Culminado|
 | ------:| -----------:| ----------------:|
 | Escuela La Presentación| Primaria	 | Si|
-| Escuela La Presentación| Primaria	 | Si|
-| Escuela La Presentación| Primaria	 | Si|
-| Escuela La Presentación| Primaria	 | Si|
-| Escuela La Presentación| Primaria	 | Si|
-| Escuela La Presentación| Primaria	 | Si|
-| Escuela La Presentación| Primaria	 | Si|
+| I.E Gran Colombia	| Bachillerato	 | Si|
+| Sena Regional Caldas	| Técnico en sistemas | Si|
+| Sena Virtual	| Herramientas Microsoft office 2010: Excel	 | Si|
+| Sena Virtual	| Uso de Excel y Access para el desarrollo de aplicaciones	| Si|
+| Sena Virtual	| Complementaria virtual en redes y seguridad| Si|
+| Universidad de Caldas	| Tecnología en Sistemas Informáticos| No|
+| Sena Virtual	| Construcción de bases de datos con MySQL| Si|
+| Universidad de Caldas	| Tecnología en Sistemas Informáticos| Si|
+| Universidad de Caldas	| Tecnología en Sistemas Informáticos| Si|
+
+
