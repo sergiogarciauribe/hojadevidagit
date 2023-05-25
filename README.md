@@ -32,3 +32,15 @@
 #### Funciones: Instalacion de redes datos y cableado estructurado,soporte en sitio, remoto, copias de seguridad mantenimiento preventivo, predictivo,lógico de equipo de computo, ayudas audiovisuales, administración de base de datos SQL server,responsable de sistemas ERP, hotelero, POS (zeus),cámaras de seguridad,directorio activo,servidor de dominio, consola de antivirus, administración de Volp, telefonía híbrida y seguridad informática.
 #### Fecha de Ingreso: 31/05/2017
 #### Fecha de Egreso: Actualmente
+
+## Formación Acádemica:
+
+|Establecimiento Educativo | Título | Estudio Culminado|
+| ------:| -----------:| ----------------:|
+| Escuela La Presentación| Primaria	 | Si|
+| Escuela La Presentación| Primaria	 | Si|
+| Escuela La Presentación| Primaria	 | Si|
+| Escuela La Presentación| Primaria	 | Si|
+| Escuela La Presentación| Primaria	 | Si|
+| Escuela La Presentación| Primaria	 | Si|
+| Escuela La Presentación| Primaria	 | Si|
