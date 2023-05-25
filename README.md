@@ -5,3 +5,11 @@
 </P>
 
 # Mis experiecia laboral 🧔 💼 🧰
+
+<h3>Empresa:</h3> Empresa: ### Digitex Internacional
+Cargo:Operador Call Center
+Jefe Inmediato:Jonh Edison Londoño
+Teléfono:3175015751
+Funciones:Atencion al cliente
+Fecha de Ingreso:06/02/2014
+Fecha de Egreso:20/10/2015
